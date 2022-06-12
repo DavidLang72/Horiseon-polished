@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* header class renamed from "header div" to "header nav"
+     to reflect the changes in the html code */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,9 +34,13 @@ body {
     font-size: 20px;
 }
 
+/* header class renamed from "header div" to "header nav"
+     to reflect the changes in the html code */
 .header nav ul {
     list-style-type: none;
 }
+/* header class renamed from "header div" to "header nav"
+     to reflect the changes in the html code */
 
 .header nav ul li {
     display: inline-block;
@@ -104,6 +110,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* All the benefit groups had duplicates of the same class information.
+   I created a single class of "content-categories" to apply the same call 
+   styling to all three, consolidating the code */
 
 .content-categories {
     margin-bottom: 20px;
@@ -122,6 +131,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* All the benefit classes had duplicates of the same class information.
+   I created a single class of "content-categories" to apply the same call 
+   styling to all three, consolidating the code */
 
 .footer {
     padding: 30px;

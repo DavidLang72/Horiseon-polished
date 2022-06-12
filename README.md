@@ -26,6 +26,8 @@ THEN I find a concise, descriptive title
 
 
 Screenshot of the refactored page
+![image}
+https://github.com/DavidLang72/Horiseon-polished/blob/main/assets/Horiseon%20Screenshot.png?raw=true
 
 
 Finished assignment can be found at:

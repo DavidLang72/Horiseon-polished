@@ -26,7 +26,8 @@ THEN I find a concise, descriptive title
 
 
 Screenshot of the refactored page
-![image](/assets/HoriseonScreenshot.png)
+<img src="https://github.com/DavidLang72/Horiseon-polished/blob/main/assets/HoriseonScreenshot.png"
+  alt="screenshot"
 
 
 Finished assignment can be found at:

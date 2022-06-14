@@ -1,5 +1,5 @@
 # Horiseon-polished
-We were given a Challenge Assignment with the following description and criteria:
+We were given a section of finished code with the following description and criteria:
 
 ## User Story
 
@@ -25,17 +25,28 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+## Screenshot
+
+```
+<p>
 Screenshot of the refactored page
 <img src="https://github.com/DavidLang72/Horiseon-polished/blob/main/assets/HoriseonScreenshot.png"
   alt="screenshot"
+  
+  </p>
 
+
+## Finished Work
 
 Finished assignment can be found at:
-https://davidlang72.github.io/Horiseon-polished/
+"https://davidlang72.github.io/Horiseon-polished/"
 
 
-Thank youi
+
+
+Thank you
 David Lang
 davidlang@hotmail.com
+
 https://github.com/DavidLang72
 
